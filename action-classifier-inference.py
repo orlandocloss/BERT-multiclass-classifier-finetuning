@@ -1,7 +1,7 @@
 import torch
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
 
-model_dir = '/mnt/sda1/local-working/action-classifier/action_classifier_model'  # Update this path
+model_dir = '/mnt/sda1/local-working/action-classifier/action_classifier_model'  
 tokenizer = AutoTokenizer.from_pretrained(model_dir)
 model = AutoModelForSequenceClassification.from_pretrained(model_dir)
 
@@ -22,7 +22,7 @@ def predict(text, threshold=0.5):
     
     return predictions.cpu().numpy()
 
-text_input = input("Enter your text: ")  # Accept text input from user
-predictions = predict(text_input, threshold=0.2)  # You can adjust the threshold
+text_input = input("Enter your text: ")  
+predictions = predict(text_input, threshold=0.2) 
 
 print("Predictions:", predictions)
