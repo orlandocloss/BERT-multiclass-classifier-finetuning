@@ -15,18 +15,13 @@ train_df, test_df = train_test_split(
 print(f"Number of rows in training set: {len(train_df)}")
 print(f"Number of rows in test set: {len(test_df)}")
 
-# Define a list of columns that should not be chosen as label columns
 not_chosen_columns = ['statement']
 
-# Select label columns that are not in the list of not chosen columns
 label_columns = [col for col in df.columns if col not in not_chosen_columns]
 
-# Create a new DataFrame containing only the selected label columns
 df_labels_train = train_df[label_columns]
 df_labels_test = test_df[label_columns]
 
-
-# Convert the label columns to lists for each row
 labels_list_train = df_labels_train.values.tolist()
 labels_list_test = df_labels_test.values.tolist()
 
@@ -81,7 +76,6 @@ trainer = Trainer(
 
 trainer.train()
 
-# Save just the model weights as a .pt file
 torch.save(model.state_dict(), "action_model_weights.pt")
 model.save_pretrained("action_saved_model")
 tokenizer.save_pretrained("action_saved_model")
