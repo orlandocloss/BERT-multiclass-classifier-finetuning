@@ -11,17 +11,13 @@ device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 model.to(device)
 
 def predict(text, threshold=0.5):
-    # Tokenize text input
     inputs = tokenizer(text, padding=True, truncation=True, return_tensors="pt").to(device)
-    
-    # Perform inference
+
     with torch.no_grad():
         outputs = model(**inputs)
     
-    # Convert logits to probabilities
     probabilities = torch.sigmoid(outputs.logits).squeeze()
     
-    # Apply threshold to get binary predictions
     predictions = (probabilities >= threshold).long()
     
     return predictions.cpu().numpy()
