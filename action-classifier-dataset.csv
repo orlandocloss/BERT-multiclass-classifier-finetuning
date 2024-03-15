@@ -1,0 +1,317 @@
+statement,Fundraiser,Petition,Group,Expertise,Solo,Event,Story
+I want to meet more people in my area,0,0,1,0,0,0,1
+How can I volunteer for local events?,0,0,0,1,0,0,0
+I'm interested in organizing a community meeting,0,0,1,0,0,1,0
+I'd like to participate in a neighborhood watch,0,0,0,1,0,0,0
+How do I start a community garden?,1,1,1,0,0,0,0
+I want to join a recycling program,0,0,0,1,0,0,0
+Can I help at the local food bank?,0,0,0,1,0,0,0
+I'm looking to mentor youth in my community,0,0,1,0,1,1,0
+How to initiate a community art project?,1,0,1,0,0,0,0
+"I want to support local businesses, what can I do?",1,0,0,0,0,0,1
+How can I help with tutoring services in my area?,0,0,1,0,1,0,0
+Is there a way to support seniors in my neighborhood?,0,0,0,0,1,0,1
+I'd like to lead a fitness class in the park,0,0,1,0,1,1,0
+How can I contribute to local wildlife conservation?,0,0,0,1,0,0,0
+I want to help improve public spaces,1,1,0,0,0,0,1
+How to organize a charity event for a local cause?,1,0,0,0,0,1,0
+I'm interested in leading a community cleanup,0,0,1,0,0,1,0
+How can I advocate for bike lanes in my area?,0,1,0,0,0,0,0
+I want to create a support group for parents,0,0,1,0,0,0,0
+How do I get involved with local policy making?,0,1,0,1,0,0,0
+I want to start a local book exchange,0,0,1,0,0,0,1
+Organizing a workshop on sustainable living,0,0,0,0,0,1,0
+Setting up a neighborhood carpool system,0,0,1,0,0,0,0
+Launching a community fitness challenge,0,0,1,0,0,1,0
+Creating a local history walking tour,0,0,1,0,0,0,1
+Initiating a community-supported agriculture (CSA) program,1,0,1,0,0,0,0
+Developing a workshop for DIY home repairs,0,0,0,0,0,1,0
+Planning a series of outdoor movie nights,0,0,1,0,0,1,0
+Establishing a community emergency preparedness group,0,0,1,0,0,0,0
+Forming a support network for new parents,0,0,1,0,0,0,1
+Building a platform for local artists to showcase their work,0,0,1,0,1,0,1
+Organizing a technology recycling drive,1,0,1,0,0,0,0
+Starting a community dialogue series on diversity and inclusion,0,0,0,0,0,1,1
+Creating a neighborhood beautification project,1,0,1,0,0,0,0
+Launching a mentorship program for high school students,0,0,1,0,1,0,0
+Setting up a local makerspace for creatives and inventors,1,0,1,0,0,0,0
+Developing a community app for local services and needs,0,0,0,1,1,0,0
+Organizing a series of professional development workshops,0,0,0,1,0,1,0
+Creating a local food festival to celebrate cultural diversity,1,0,0,0,0,1,0
+Initiating a program to install free little libraries around the neighborhood,1,0,1,0,0,0,0
+Launching a youth sports league to promote teamwork,0,0,1,0,0,1,0
+Starting a community recycling awareness campaign,0,0,1,0,0,0,1
+Organizing a series of coding workshops for kids,0,0,0,1,0,1,0
+Setting up a volunteer-run pet adoption fair,1,0,1,0,0,0,0
+Creating a neighborhood green initiative to plant trees,1,0,1,0,0,0,0
+Launching a local history podcast to share stories,0,0,0,0,1,0,1
+Forming a community band for local musicians,0,0,1,0,0,1,0
+Developing a neighborhood watch app for safety,0,0,0,1,1,0,0
+Organizing workshops on financial literacy for residents,0,0,0,1,0,1,0
+Starting a repair café to teach and offer repair services,0,0,1,0,1,0,0
+Creating a mural project to beautify the area,1,0,1,0,0,0,0
+Launching a local health and wellness fair,0,0,1,0,0,1,0
+Setting up a community composting program,0,0,1,0,0,0,0
+"Organizing a ""shop local"" campaign to support small businesses",1,0,0,0,0,0,1
+Starting a community discussion forum online,0,0,1,0,0,0,1
+Developing a program for energy efficiency education,0,0,1,1,0,0,0
+Organizing a cultural exchange program with sister cities,0,0,1,0,0,0,1
+Creating a community garden and cooking classes combo,0,0,1,0,0,1,0
+Launching a local talent show to fundraise for community projects,1,0,0,0,0,1,0
+Setting up a community bike repair and share station,1,0,1,0,0,0,0
+Organizing a series of environmental conservation workshops,0,0,0,1,0,1,0
+Starting a community choir to bring people together,0,0,1,0,0,1,0
+Creating a platform for sharing homegrown produce,0,0,1,0,1,0,0
+Launching a seniors' tech literacy program,0,0,1,1,0,0,0
+Setting up a neighborhood clean-up and recycle day,0,0,1,0,0,1,0
+Organizing a film making workshop for teens,0,0,1,1,0,0,0
+Starting a community-based mental health support group,0,0,1,0,0,0,1
+Developing a local tourism initiative to showcase hidden gems,0,0,1,0,0,0,1
+Creating a community currency system for local trading,0,0,1,0,1,0,0
+Launching a series of workshops on sustainable fashion,0,0,0,1,0,1,0
+I'm eager to start a local sustainability forum,0,0,1,0,0,1,0
+I want to organize a pet care workshop for the community,0,0,0,1,0,1,0
+Can I set up a community storytelling evening?,0,0,1,0,0,0,1
+I'm planning to run a series of digital literacy classes,0,0,1,1,0,0,0
+How can I start a neighborhood art collective?,0,0,1,0,1,0,0
+I'd love to lead a workshop on urban farming techniques,0,0,1,1,0,0,0
+Can we create a local initiative for reducing plastic use?,1,0,1,0,0,0,0
+I'm interested in starting a community book club,0,0,1,0,0,0,1
+How do I organize a charity run for local causes?,1,0,0,0,0,1,0
+I want to launch a series on cultural cooking classes,0,0,1,0,0,1,0
+Can I start a local language exchange meetup?,0,0,1,0,0,0,1
+I'd like to organize a community skills swap event,0,0,1,0,1,0,0
+How can I contribute to creating a safer neighborhood?,0,1,0,1,0,0,0
+I'm keen on starting a local photography contest,0,0,0,0,0,1,1
+I want to help set up a community co-working space,1,0,1,0,0,0,0
+Can we organize a multicultural festival in our area?,1,0,0,0,0,1,0
+I'd love to initiate a community mural painting day,1,0,1,0,0,0,0
+How can I start an environmental awareness campaign?,0,0,1,0,0,0,1
+I want to create a support network for freelancers,0,0,1,0,1,0,0
+How do I get involved in local heritage preservation?,0,1,0,0,0,0,1
+I'd like to set up a neighborhood resource sharing platform,0,0,0,1,1,0,0
+Can I organize a local film screening series?,0,0,1,0,0,1,0
+I'm interested in leading a community health initiative,1,0,1,0,0,0,0
+How can I start a bike-sharing program in our community?,1,0,1,0,0,0,0
+I want to establish a local amateur theater group,0,0,1,0,0,1,0
+Can we create a neighborhood support hotline for emergencies?,0,0,1,1,0,0,0
+"I'd love to organize a ""clean tech"" innovation challenge",1,0,0,0,0,1,0
+How do I set up a community-based renewable energy project?,1,0,0,1,0,0,0
+"I want to launch a neighborhood ""fix-it"" day for electronics",0,0,1,0,1,0,0
+Can I start an initiative to support local farmers?,1,0,1,0,0,0,0
+I'd like to lead a campaign for more public art installations,0,1,0,0,0,0,1
+How can I contribute to building a community playground?,1,0,1,0,0,0,0
+I want to organize a workshop on conflict resolution,0,0,0,1,0,1,0
+Can we start a local nature walks group?,0,0,1,0,0,0,1
+I'm keen on creating a community newsletter,0,0,0,0,1,0,1
+How do I start a food sharing program to reduce waste?,1,0,1,0,0,0,0
+I want to set up an annual community awards event,1,0,0,0,0,1,0
+Can I organize a workshop for homemade natural products?,0,0,0,1,0,1,0
+I'm interested in starting a local investment club,0,0,1,0,1,0,0
+How can I contribute to creating accessible community gardens?,1,0,1,0,0,0,0
+I can knit,0,0,1,0,1,0,0
+I'm very good at gardening,0,0,1,0,1,0,0
+I can code,0,0,1,0,1,0,0
+I can offer legal advice for community issues,0,0,0,1,1,0,0
+I'm a professional chef willing to teach cooking classes,0,0,1,0,1,1,0
+"I have experience in event planning, how can I help?",0,0,1,1,0,1,0
+I'm an artist looking to beautify public spaces,1,0,1,0,1,0,0
+I'm skilled in driving,0,0,1,0,1,0,0
+I enjoy talking to people,0,0,1,0,0,0,0
+I can play the guitar,0,0,1,0,1,1,0
+I'm good at painting,0,0,1,0,1,0,0
+I love cooking for others,0,0,1,0,1,1,0
+Baking is my passion,0,0,1,0,1,0,0
+Photography is a hobby of mine,0,0,1,0,1,0,1
+Writing is something I do in my free time,0,0,0,0,1,0,1
+Carpentry work is my expertise,0,0,1,0,1,0,0
+I can handle electrical work,0,0,0,0,1,0,0
+Plumbing is something I'm good at,0,0,0,0,1,0,0
+Teaching is my profession,0,0,1,0,1,0,0
+I coach sports in my spare time,0,0,1,0,1,1,0
+I can organize and declutter spaces efficiently,0,0,1,0,1,0,0
+I'm experienced in renewable energy solutions,0,0,1,0,1,1,0
+I have a knack for interior design,0,0,1,0,1,0,0
+My passion is creating educational content for children,0,0,0,0,1,0,1
+I'm a skilled mechanic and can teach basic car maintenance,0,0,0,0,1,0,0
+I can lead workshops on personal finance management,0,0,1,0,0,1,0
+My strength is in building and maintaining community gardens,0,0,1,0,1,0,0
+I'm proficient in several programming languages,0,0,1,0,1,0,0
+I have experience in grant writing for nonprofits,0,0,0,0,1,0,0
+I can teach sign language to individuals or groups,0,0,1,0,1,1,0
+I'm a trained mediator and can help resolve conflicts,0,0,0,0,1,0,0
+I can offer photography lessons for beginners,0,0,1,0,1,0,0
+I'm good at cooking vegan meals and can host cooking classes,0,0,1,0,1,1,0
+I can provide basic veterinary advice for pet owners,0,0,0,0,1,0,0
+I'm an experienced public speaker and can offer coaching,0,0,1,0,1,0,0
+I can lead creative writing workshops,0,0,1,0,1,0,0
+I have expertise in historical research and can give lectures,0,0,0,0,1,0,0
+I'm good at organizing community clean-up events,0,0,1,0,1,0,0
+I can teach chess to children and adults,0,0,1,0,1,0,0
+I'm experienced in mural painting and can lead public art projects,1,0,1,0,1,0,0
+I'm proficient in graphic design and can offer branding advice,0,0,1,0,1,0,0
+I enjoy crafting and can lead workshops on making handmade gifts,0,0,1,0,1,1,0
+I'm a skilled baker and can demonstrate advanced baking techniques,0,0,1,0,1,1,0
+I have expertise in yoga and can conduct wellness workshops,0,0,1,0,1,1,0
+I'm knowledgeable about sustainable living practices,0,0,1,0,1,1,0
+I can teach DIY home improvement projects,0,0,1,0,1,0,0
+I'm an amateur astronomer and can organize stargazing nights,0,0,1,0,1,1,0
+I excel at digital marketing and can help local businesses grow online,0,0,0,1,1,0,0
+I'm a passionate environmental activist and can lead conservation efforts,0,0,1,0,1,0,1
+I have a green thumb and can offer gardening consultations,0,0,1,0,1,0,0
+I'm an experienced cyclist and can lead community bike rides,0,0,1,0,1,1,0
+I'm skilled at sewing and can teach clothing repair workshops,0,0,1,0,1,0,0
+I can offer guidance on setting up home solar panels,0,0,0,1,1,0,0
+I'm a professional dancer and can offer dance classes,0,0,1,0,1,1,0
+I enjoy historical reenactment and can organize community events,0,0,1,0,1,1,0
+I'm proficient in first aid and can conduct safety training sessions,0,0,1,0,1,0,0
+I have expertise in mobile app development and can mentor aspiring developers,0,0,0,1,1,0,0
+I'm experienced in woodworking and can teach furniture making,0,0,1,0,1,0,0
+I'm knowledgeable in nutrition and can offer healthy eating workshops,0,0,1,0,1,1,0
+I can lead mindfulness and meditation sessions for stress relief,0,0,1,0,1,1,0
+I'm a trained lifeguard and can offer swimming lessons,0,0,1,0,1,0,0
+I have experience in beekeeping and can lead informational sessions,0,0,1,0,1,0,0
+I'm a skilled videographer and can teach video editing,0,0,1,0,1,0,0
+I enjoy birdwatching and can lead nature walks,0,0,1,0,1,0,0
+I'm experienced in preserving and canning food and can teach others,0,0,1,0,1,0,0
+I'm a skilled skateboarder and can offer skateboarding lessons,0,0,1,0,1,0,0
+I can provide career counseling for young adults,0,0,0,1,1,0,0
+I'm knowledgeable in antique restoration and can offer workshops,0,0,1,0,1,0,0
+I have experience in stage management and can offer theater production workshops,0,0,1,0,1,1,0
+I'm a professional sound engineer and can teach sound mixing,0,0,0,1,1,0,0
+I'm fluent in multiple languages and can offer language tutoring,0,0,1,0,1,0,0
+I enjoy geocaching and can organize community geocaching events,0,0,1,0,1,1,0
+I'm an experienced camp counselor and can lead outdoor adventure camps,0,0,1,0,1,1,0
+I have expertise in aquaponics and can set up sustainable food systems,0,0,0,1,1,0,0
+I'm passionate about comic book art and can lead comic creation workshops,0,0,1,0,1,1,0
+I'm a certified fitness instructor and can lead group fitness classes,0,0,1,0,1,1,0
+I enjoy making jewelry and can teach jewelry making workshops,0,0,1,0,1,0,0
+I'm experienced in making natural beauty products and can lead workshops,0,0,1,0,1,0,0
+I can teach basic robotics to kids and teens,0,0,1,0,1,1,0
+I'm knowledgeable about local flora and fauna and can lead nature education walks,0,0,1,0,1,1,0
+I am lonely,0,0,1,0,0,0,1
+It is too noisy in my area,0,0,0,1,0,0,1
+Street lights are out on my block,0,1,0,1,0,0,0
+Vandalism has increased in our park,0,1,1,1,0,0,0
+There's a pothole on Main Street,0,1,0,1,0,0,0
+The local library hours are too limited,0,0,0,1,0,0,0
+We need more recycling bins in our area,0,1,0,0,0,0,0
+The playground equipment is unsafe,0,1,0,1,0,0,0
+There's a stray dog problem in our neighborhood,0,1,1,0,0,0,0
+Graffiti is covering the pedestrian bridge,0,1,0,1,0,0,0
+Public transportation is inadequate here,0,1,0,1,0,0,0
+We're lacking community gathering spaces,1,1,1,0,0,0,0
+The river walk is littered with trash,0,1,1,0,0,0,0
+Noise pollution from the construction site is unbearable,0,1,0,1,0,0,1
+There are no bike lanes in my area,0,1,0,1,0,0,0
+The community garden needs more maintenance,1,1,1,0,0,0,0
+Air quality has worsened recently,0,0,0,1,0,0,1
+There's a lack of accessible facilities for the disabled,1,1,0,1,0,0,0
+Speeding cars make our streets unsafe,0,0,0,1,0,0,1
+The community pool is always dirty,0,1,0,0,0,0,1
+Local park lacks accessible play equipment for children with disabilities,1,1,0,0,0,0,0
+"Neighborhood faces frequent power outages, causing safety concerns",0,1,0,1,0,0,0
+Increased littering in public spaces needs community action,0,1,1,0,0,0,0
+Lack of affordable childcare options in the community,1,1,0,0,0,0,0
+Public benches are old and need replacement,1,1,0,1,0,0,0
+Community center needs more diverse programs to meet residents' needs,1,0,1,0,0,0,0
+"Local streams and rivers are polluted, affecting wildlife",0,1,0,1,0,0,0
+Insufficient street lighting on walking paths poses safety risks,0,1,0,1,0,0,0
+High rates of unemployment among the youth in the area,1,0,1,1,0,0,0
+Lack of support for local musicians and artists,1,0,1,0,0,0,1
+Erosion is threatening local hiking trails,1,1,0,1,0,0,0
+"Public spaces are not welcoming to pets, need pet-friendly areas",0,1,1,0,0,0,0
+"Historical buildings in disrepair, need preservation efforts",1,1,0,0,0,0,1
+Insufficient parking spaces in downtown area causing congestion,0,1,0,1,0,0,0
+Community lacks a unified platform for sharing resources and services,0,0,0,1,1,0,0
+Need for a dedicated space for teen activities and programs,1,1,1,0,0,0,0
+Absence of a local farmers' market limits access to fresh produce,1,0,1,0,0,0,0
+Limited recreational activities for the elderly in the community,1,0,1,0,0,0,0
+Lack of awareness about recycling and waste management,0,0,1,0,0,0,1
+Community swimming pool is outdated and needs renovation,1,1,0,1,0,0,0
+Overflowing trash bins in public areas attract pests,0,1,0,1,0,0,0
+Local wildlife is losing habitat due to development,0,1,0,0,0,0,1
+Youth vandalism is on the rise in community spaces,0,1,1,0,0,0,0
+There's a shortage of volunteer opportunities for teens,0,0,1,0,0,0,1
+Local businesses are struggling due to online competition,1,0,0,0,0,0,1
+Increased traffic congestion near schools during drop-off and pick-up times,0,1,0,1,0,0,0
+Lack of cultural events representing the diverse community,1,0,1,0,0,0,1
+Public art installations are frequently vandalized,0,1,1,0,0,0,0
+Neighborhood lacks green spaces and parks,1,1,0,0,0,0,0
+Community members are not aware of local emergency preparedness plans,0,0,0,1,0,0,1
+Insufficient resources for mental health support in the community,1,0,0,1,0,0,0
+"Local sports fields are in poor condition, hindering youth sports",1,1,0,0,0,0,0
+Lack of bilingual education programs in local schools,0,1,1,0,0,0,0
+The community library's book collection is outdated,1,0,1,0,0,0,0
+Inadequate access to public transportation in rural areas,0,1,0,1,0,0,0
+Local ponds and lakes are contaminated with algae blooms,0,1,0,1,0,0,0
+Community lacks initiatives to support homeless populations,1,0,1,0,0,0,0
+Absent or broken street signs create confusion and safety issues,0,1,0,1,0,0,0
+"Public Wi-Fi networks are unreliable, affecting remote workers and students",0,1,0,1,0,0,0
+Rising crime rates in certain neighborhoods cause concern,0,1,1,1,0,0,0
+Inadequate facilities for breastfeeding mothers in public places,1,1,0,0,0,0,0
+Noise from late-night establishments disturbs residential areas,0,1,0,1,0,0,0
+Seasonal flooding damages homes and infrastructure,1,1,0,1,0,0,0
+Lack of shelters for victims of domestic violence,1,0,1,0,0,0,0
+Insufficient support for integrating immigrants into the community,1,0,1,0,0,0,1
+Local history is not adequately preserved or promoted,1,0,0,0,0,0,1
+Public restrooms in parks are often dirty or locked,0,1,0,1,0,0,0
+Sidewalks in disrepair pose hazards for pedestrians and people with disabilities,0,1,0,1,0,0,0
+Lack of designated cycling paths puts cyclists at risk,0,1,1,0,0,0,0
+"Community events are not well-publicized, leading to low attendance",0,0,1,0,0,0,1
+Abandoned lots are eyesores and waste potential community space,1,1,0,0,0,0,0
+Invasive plant species are overtaking native flora in parks,0,0,1,1,0,0,0
+Lack of coordination among different community volunteer groups,0,0,1,0,1,0,0
+Food deserts in certain areas leave residents without access to healthy food,1,1,0,0,0,0,0
+Insufficient programming and resources for at-risk youth,1,0,1,1,0,0,0
+Our neighborhood lacks a safe space for teens to hang out,1,0,1,0,0,0,0
+There's no community program for recycling electronics,0,1,0,0,0,0,0
+Feral cats are becoming a problem in our area,0,1,1,0,0,0,0
+We have no local history museum to preserve our heritage,1,0,0,0,0,0,1
+There's a need for more community-led health initiatives,1,0,1,0,0,0,0
+Our community garden lacks volunteers and resources,1,0,1,0,0,0,0
+Local artists need more public spaces to display their work,1,0,1,0,0,0,0
+"There's a lack of free, public Wi-Fi spots in our area",0,1,0,0,0,0,0
+Our area lacks initiatives to integrate new residents,0,0,1,0,0,0,1
+The local skate park is outdated and unsafe,1,1,0,0,0,0,0
+There's no program in place for senior citizens to socialize,1,0,1,0,0,0,0
+We need more initiatives to support mental health in our community,1,0,1,0,0,0,0
+Our local park's playground equipment is outdated,1,1,0,0,0,0,0
+There's a lack of awareness and support for local businesses,0,0,1,0,0,0,1
+The community lacks a central calendar for events and activities,0,0,1,0,0,0,1
+There's no effective system for sharing resources among residents,0,0,1,0,0,0,0
+Our neighborhood's cultural diversity isn't celebrated enough,0,0,1,0,0,0,1
+There's a shortage of community-led environmental initiatives,1,0,1,0,0,0,0
+Local youth sports programs lack funding and equipment,1,0,1,0,0,0,0
+There's no local platform for reporting and addressing minor infrastructural issues,0,1,0,0,0,0,0
+Accessible mental health resources are scarce in our community,1,0,1,0,0,0,0
+Our public library lacks current technology and resources,1,0,1,0,0,0,0
+There's a significant gap in support for homeless pets in our community,1,0,1,0,0,0,0
+Public spaces in our neighborhood are underutilized,1,0,1,0,0,0,0
+There's a need for community-supported childcare solutions,1,0,1,0,0,0,0
+Our area lacks a dedicated space for performing arts,1,0,1,0,0,0,0
+Public transportation doesn't adequately serve all community areas,0,1,0,0,0,0,0
+There's a need for more tree planting and green initiatives in our area,1,0,1,0,0,0,0
+Community awareness about emergency preparedness is low,0,0,1,0,0,0,1
+Local water bodies are littered and need cleanup,0,1,1,0,0,0,0
+Our community lacks engagement in local governance and decision-making,0,0,1,0,0,0,1
+There's a gap in educational support for disadvantaged children,1,0,1,0,0,0,0
+"A lack of safe, designated areas for pets to play and exercise",0,1,1,0,0,0,0
+We need a community initiative to support and mentor local startups,1,0,1,0,0,0,0
+Our neighborhood doesn't have a local market for fresh produce,1,0,1,0,0,0,0
+The absence of a regular community cleanup effort leads to littered streets,0,1,1,0,0,0,0
+There's no local initiative to promote and support public art,1,0,1,0,0,0,0
+A lack of programs addressing the digital divide in our community,1,0,1,0,0,0,0
+Our community lacks accessible fitness and wellness programs,1,0,1,0,0,0,0
+There's a need for a local exchange to swap goods and reduce waste,0,0,1,0,0,0,0
+"Outdoor recreational areas are not well-maintained, deterring use",0,1,1,0,0,0,0
+Our neighborhood lacks cultural festivals to bring the community together,1,0,1,0,0,0,0
+Public spaces aren't equipped with enough seating and shade,1,1,0,0,0,0,0
+"The local pond is overrun with algae, making it unusable",0,1,1,0,0,0,0
+There's no initiative to address noise pollution in residential areas,0,1,0,0,0,0,1
+Our community lacks a program for the safe disposal of hazardous household waste,0,1,0,0,0,0,0
+There's a need for more inclusive playgrounds for children of all abilities,1,0,1,0,0,0,0
+Local historical sites are not being maintained or promoted,1,0,0,0,0,0,1
+There's a significant need for job training and placement programs in our area,1,0,1,0,0,0,0
+Our community's youth are in need of more educational and recreational activities,1,0,1,0,0,0,0
+Residents feel disconnected from local government decisions and policies,0,0,1,0,0,0,1
